@@ -15,6 +15,7 @@
     "node": ">=0.10.32"
   },
   "dependencies": {
+    "hjson" : "1.x.x",
     "boom": "2.x.x",
     "content": "1.x.x",
     "hoek": "2.x.x",
